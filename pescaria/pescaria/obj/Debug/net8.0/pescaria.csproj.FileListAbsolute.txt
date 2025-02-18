@@ -1,0 +1,14 @@
+C:\Users\aluno\Documents\Daniel Ferreira Gomes da Silva\visual studio\pescaria\pescaria\bin\Debug\net8.0\pescaria.exe
+C:\Users\aluno\Documents\Daniel Ferreira Gomes da Silva\visual studio\pescaria\pescaria\bin\Debug\net8.0\pescaria.deps.json
+C:\Users\aluno\Documents\Daniel Ferreira Gomes da Silva\visual studio\pescaria\pescaria\bin\Debug\net8.0\pescaria.runtimeconfig.json
+C:\Users\aluno\Documents\Daniel Ferreira Gomes da Silva\visual studio\pescaria\pescaria\bin\Debug\net8.0\pescaria.dll
+C:\Users\aluno\Documents\Daniel Ferreira Gomes da Silva\visual studio\pescaria\pescaria\bin\Debug\net8.0\pescaria.pdb
+C:\Users\aluno\Documents\Daniel Ferreira Gomes da Silva\visual studio\pescaria\pescaria\obj\Debug\net8.0\pescaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\Daniel Ferreira Gomes da Silva\visual studio\pescaria\pescaria\obj\Debug\net8.0\pescaria.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\Daniel Ferreira Gomes da Silva\visual studio\pescaria\pescaria\obj\Debug\net8.0\pescaria.AssemblyInfo.cs
+C:\Users\aluno\Documents\Daniel Ferreira Gomes da Silva\visual studio\pescaria\pescaria\obj\Debug\net8.0\pescaria.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\Daniel Ferreira Gomes da Silva\visual studio\pescaria\pescaria\obj\Debug\net8.0\pescaria.dll
+C:\Users\aluno\Documents\Daniel Ferreira Gomes da Silva\visual studio\pescaria\pescaria\obj\Debug\net8.0\refint\pescaria.dll
+C:\Users\aluno\Documents\Daniel Ferreira Gomes da Silva\visual studio\pescaria\pescaria\obj\Debug\net8.0\pescaria.pdb
+C:\Users\aluno\Documents\Daniel Ferreira Gomes da Silva\visual studio\pescaria\pescaria\obj\Debug\net8.0\pescaria.genruntimeconfig.cache
+C:\Users\aluno\Documents\Daniel Ferreira Gomes da Silva\visual studio\pescaria\pescaria\obj\Debug\net8.0\ref\pescaria.dll
